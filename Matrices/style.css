@@ -1,0 +1,15 @@
+html{
+    background-color: black;
+    color: aqua;
+}
+input{
+    background-color: rgb(24,48,48);
+    color: aqua;
+    text-align: center;
+    border: 1px solid cyan;
+    height: 50px;
+    width: 50px;
+}
+input:focus{
+    background-color: black;
+}
